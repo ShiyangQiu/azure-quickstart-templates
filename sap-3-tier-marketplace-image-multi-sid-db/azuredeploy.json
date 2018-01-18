@@ -183,7 +183,7 @@
     "vmSizes": {
       "Demo": {
         "Not HA": {
-          "dbserversize": "Standard_DS12_v2",
+          "dbserversize": "Standard_DS12",
           "dbservercount": 1,
           "dbserverdisks": [
             {
@@ -192,7 +192,7 @@
           ]
         },
         "HA": {
-          "dbserversize": "Standard_DS12_v2",
+          "dbserversize": "Standard_DS12",
           "dbservercount": 2,
           "dbserverdisks": [
             {
