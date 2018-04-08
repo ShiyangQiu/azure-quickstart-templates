@@ -610,6 +610,16 @@
                   },
                   {
                      "lun":2,
+                     "name":"[concat(variables('virtualMachines_HANA01_name'),'Log1')]",
+                     "createOption":"Empty",
+                     "caching":"None",
+                     "managedDisk":{
+                        "storageAccountType":"Standard_LRS"
+                     },
+                     "diskSizeGB":500
+                  },
+                  {
+                     "lun":3,
                      "name":"[concat(variables('virtualMachines_HANA01_name'),'Data3')]",
                      "createOption":"Empty",
                      "caching":"ReadOnly",
@@ -617,16 +627,6 @@
                         "storageAccountType":"Standard_LRS"
                      },
                      "diskSizeGB":128
-                  },
-                  {
-                     "lun":3,
-                     "name":"[concat(variables('virtualMachines_HANA01_name'),'Log1')]",
-                     "createOption":"Empty",
-                     "caching":"None",
-                     "managedDisk":{
-                        "storageAccountType":"Standard_LRS"
-                     },
-                     "diskSizeGB":256
                   }
                ]
             },
@@ -714,6 +714,16 @@
                   },
                   {
                      "lun":2,
+                     "name":"[concat(variables('virtualMachines_HANA02_name'),'Log1')]",
+                     "createOption":"Empty",
+                     "caching":"None",
+                     "managedDisk":{
+                        "storageAccountType":"Standard_LRS"
+                     },
+                     "diskSizeGB":500
+                  },
+                  {
+                     "lun":3,
                      "name":"[concat(variables('virtualMachines_HANA02_name'),'Data3')]",
                      "createOption":"Empty",
                      "caching":"ReadOnly",
@@ -721,16 +731,6 @@
                         "storageAccountType":"Standard_LRS"
                      },
                      "diskSizeGB":128
-                  },
-                  {
-                     "lun":3,
-                     "name":"[concat(variables('virtualMachines_HANA02_name'),'Log1')]",
-                     "createOption":"Empty",
-                     "caching":"None",
-                     "managedDisk":{
-                        "storageAccountType":"Standard_LRS"
-                     },
-                     "diskSizeGB":256
                   }
                ]
             },
