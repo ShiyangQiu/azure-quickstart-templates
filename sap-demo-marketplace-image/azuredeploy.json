@@ -205,7 +205,7 @@
                   "publisher":"SUSE",
                   "offer":"SLES-SAP-BYOS",
                   "sku":"12-SP3",
-                  "version":"2018.01.04"
+                  "version":"latest"
                },
                "osDisk":{
                   "osType":"Linux",
@@ -279,7 +279,7 @@
                   "publisher":"SUSE",
                   "offer":"SLES-SAP-BYOS",
                   "sku":"12-SP3",
-                  "version":"2018.01.04"
+                  "version":"latest"
                },
                "osDisk":{
                   "osType":"Linux",
@@ -353,7 +353,7 @@
                   "publisher":"SUSE",
                   "offer":"SLES-SAP-BYOS",
                   "sku":"12-SP3",
-                  "version":"2018.01.04"
+                  "version":"latest"
                },
                "osDisk":{
                   "osType":"Linux",
@@ -427,7 +427,7 @@
                   "publisher":"SUSE",
                   "offer":"SLES-SAP-BYOS",
                   "sku":"12-SP3",
-                  "version":"2018.01.04"
+                  "version":"latest"
                },
                "osDisk":{
                   "osType":"Linux",
@@ -501,7 +501,7 @@
                   "publisher":"SUSE",
                   "offer":"SLES-SAP-BYOS",
                   "sku":"12-SP3",
-                  "version":"2018.01.04"
+                  "version":"latest"
                },
                "osDisk":{
                   "osType":"Linux",
@@ -916,7 +916,7 @@
                   "publisher":"SUSE",
                   "offer":"SLES-SAP-BYOS",
                   "sku":"12-SP3",
-                  "version":"2018.01.04"
+                  "version":"latest"
                },
                "osDisk":{
                   "osType":"Linux",
@@ -990,7 +990,7 @@
                   "publisher":"SUSE",
                   "offer":"SLES-SAP-BYOS",
                   "sku":"12-SP3",
-                  "version":"2018.01.04"
+                  "version":"latest"
                },
                "osDisk":{
                   "osType":"Linux",
